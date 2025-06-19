@@ -229,7 +229,7 @@
 
 ## 🤝 Contributing
 
-We welcome contributions from all MA-AAI- students! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to add your research implementation.
+We welcome contributions from all Fontys ICT students! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to add your research implementation.
 
 ## 📄 License
 
