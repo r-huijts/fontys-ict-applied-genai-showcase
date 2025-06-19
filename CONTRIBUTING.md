@@ -173,7 +173,7 @@ Outstanding contributions may be featured and highlighted in:
 - Social media showcases (with permission)
 - Future course materials as examples
 
-Remember: This is a collaborative learning space. Be respectful, give credit where due, and help create a resource that benefits all MA-AAI-MC students!
+Remember: This is a collaborative learning space. Be respectful, give credit where due, and help create a resource that benefits all Fontys ICT Applied GenAI students!
 
 ---
 
