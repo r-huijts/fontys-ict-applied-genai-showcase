@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/username/fontys-ict-applied-genai-showcase.svg?style=flat-square)](https://github.com/username/fontys-ict-applied-genai-showcase/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Fontys ICT](https://img.shields.io/badge/Fontys-ICT-orange.svg?style=flat-square)](https://fontys.nl/ict)
-[![MA-AAI-MC](https://img.shields.io/badge/MA--AAI--MC-34%20cases-blue.svg?style=flat-square)](#table-of-contents)
+[![MA-AAI](https://img.shields.io/badge/MA--AAI-34%20cases-blue.svg?style=flat-square)](#table-of-contents)
 
 > **The premier showcase of student innovations in Applied Generative AI** - A collaborative collection featuring 34 professional research project implementations from Fontys ICT's Applied GenAI program. From AI judges to voice awakening, discover cutting-edge approaches to the future of intelligent systems.
 
@@ -229,7 +229,7 @@
 
 ## 🤝 Contributing
 
-We welcome contributions from all MA-AAI-MC students! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to add your research implementation.
+We welcome contributions from all MA-AAI- students! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to add your research implementation.
 
 ## 📄 License
 
@@ -237,10 +237,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- All MA-AAI-MC students for their innovative research contributions
+- All Applied GenAI students for their innovative research contributions
 - Course instructors for designing these challenging and engaging research cases
 - The open-source community for inspiration and best practices
 
 ---
 
-*Built with 🧠 by MA-AAI-MC students | Powered by curiosity and caffeine ☕*
+*Built with 🧠 by Fontys ICT Applied GenAI students | Powered by curiosity and caffeine ☕*
