@@ -53,7 +53,7 @@
 ### ⚖️ AI Judge
 *Exploring AI systems for fair and transparent decision-making processes*
 
-- Add your implementation here! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+- Add your implementation here! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### 🤖 Autonomous Agents
 *Building and evaluating self-directed AI agents in complex environments*
@@ -229,7 +229,7 @@
 
 ## 🤝 Contributing
 
-We welcome contributions from all MA-AAI-MC students! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) file for detailed guidelines on how to add your research implementation.
+We welcome contributions from all MA-AAI-MC students! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to add your research implementation.
 
 ## 📄 License
 
