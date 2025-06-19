@@ -50,28 +50,6 @@ Each entry should follow this exact format:
 
 ---
 
-## 🎯 What to Include
-
-### Acceptable Link Types:
-- **GitHub repositories** (preferred)
-- **Jupyter notebooks** (Google Colab, GitHub, etc.)
-- **Live demos** (Streamlit, Hugging Face Spaces, etc.)
-- **Documentation sites** (GitHub Pages, personal sites)
-- **Research papers** (ArXiv, institutional repositories)
-
-### Description Guidelines:
-- **15-80 characters** recommended
-- Highlight your **unique approach** or **key contribution**
-- Mention **specific techniques** or **technologies** used
-- Be **concise** but **informative**
-
-### Examples by Case Type:
-- **🤖 Autonomous Agents**: "Multi-agent reinforcement learning in Unity environment"
-- **🔍 RAG Time**: "Vector database optimization using Pinecone and LangChain"
-- **🎨 Creative AI Studio**: "Style transfer for architectural visualization using GANs"
-
----
-
 ## 📐 Formatting Rules
 
 ### 1. Alphabetical Ordering
