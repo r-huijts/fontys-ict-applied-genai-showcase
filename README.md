@@ -6,7 +6,7 @@
 [![Fontys ICT](https://img.shields.io/badge/Fontys-ICT-orange.svg?style=flat-square)](https://fontys.nl/ict)
 [![MA-AAI-MC](https://img.shields.io/badge/MA--AAI--MC-34%20cases-blue.svg?style=flat-square)](#table-of-contents)
 
-> **The premier showcase of student innovations in Applied Generative AI** - A collaborative collection featuring 34 professional research project implementations from Fontys ICT's MA-AAI-MC program. From AI judges to voice awakening, discover cutting-edge approaches to the future of intelligent systems.
+> **The premier showcase of student innovations in Applied Generative AI** - A collaborative collection featuring 34 professional research project implementations from Fontys ICT's Applied GenAI program. From AI judges to voice awakening, discover cutting-edge approaches to the future of intelligent systems.
 
 ## 📚 Table of Contents
 
