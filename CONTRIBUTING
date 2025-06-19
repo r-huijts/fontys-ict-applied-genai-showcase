@@ -120,30 +120,6 @@ Each entry should follow this exact format:
 
 ---
 
-## 🎨 Contribution Examples
-
-### Research Implementation
-```markdown
-- [jane_researcher](https://github.com/jane_researcher/emotion-ai-analysis) - BERT-based emotion classification with attention visualization
-```
-
-### Interactive Demo
-```markdown
-- [demo_builder](https://huggingface.co/spaces/demo_builder/voice-clone) - Real-time voice cloning with ethical safeguards
-```
-
-### Jupyter Notebook
-```markdown
-- [data_explorer](https://colab.research.google.com/drive/1XYZ789) - Comparative analysis of small vs large language models
-```
-
-### Research Paper + Code
-```markdown
-- [academic_mind](https://github.com/academic_mind/rag-optimization) - Novel retrieval strategies for domain-specific RAG systems
-```
-
----
-
 ## 🤔 Need Help?
 
 ### Getting Started:
@@ -160,13 +136,6 @@ Each entry should follow this exact format:
 - Check existing implementations for inspiration (but don't copy!)
 
 ---
-
-## 🌟 Recognition
-
-Outstanding contributions may be featured and highlighted in:
-- Course discussions and presentations
-- Social media showcases (with permission)
-- Future course materials as examples
 
 Remember: This is a collaborative learning space. Be respectful, give credit where due, and help create a resource that benefits all Fontys ICT MA-AAI-MC students!
 
