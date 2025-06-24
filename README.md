@@ -3,8 +3,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/username/fontys-ict-applied-genai-showcase.svg?style=flat-square)](https://github.com/username/fontys-ict-applied-genai-showcase/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Fontys ICT](https://img.shields.io/badge/Fontys-ICT-orange.svg?style=flat-square)](https://fontys.nl/ict)
-[![MA-AAI](https://img.shields.io/badge/MA--AAI-34%20cases-blue.svg?style=flat-square)](#table-of-contents)
+
+![Logo](showcase.png)
 
 > **The premier showcase of student innovations in Applied Generative AI** - A collaborative collection featuring 34 professional research project implementations from Fontys ICT's Applied GenAI program. From AI judges to voice awakening, discover cutting-edge approaches to the future of intelligent systems.
 
